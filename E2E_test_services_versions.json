@@ -1,1 +1,1 @@
-{"dispatcher_version":{"label":"Dispatcher Version","status":"97ea8ff","color":"purple"},"atomic_version":{"label":"Atomic Version","status":"fa074fe","color":"blue"}}
+{"dispatcher_version":{"label":"Dispatcher Version","status":"97ea8ff","color":"purple"},"atomic_version":{"label":"Atomic Version","status":"fa074fe","color":"blue"},"nats_server_version":{"label":"Nats-Server Version","status":"7b15142","color":"green"}}
